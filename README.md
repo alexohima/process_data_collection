@@ -16,3 +16,6 @@ r.exe "C:\Program Files\VideoLAN\VLC\vlc.exe" 2
 - the second argument is the time interval of the data collection(in seconds)
 
 
+```
+this code will create a log file named log.csv in the current folder
+```
